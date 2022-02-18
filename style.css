@@ -46,3 +46,23 @@ article .testParagraph{
     color:darkslateblue;
     font-size: 25px;
 }
+
+@media (min-width: 1200px) {
+    p{
+        color:purple;
+    }
+    h1{
+        color: red;
+        font-size: 35px;
+    }
+
+}
+@media (max-width: 720px) {
+    p{
+        color: orange;
+    }
+    h1{
+        color:darkgreen;
+        font-size: 25px;
+    }
+}
