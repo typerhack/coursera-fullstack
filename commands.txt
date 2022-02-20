@@ -1,0 +1,4 @@
+## Address for the project
+cd "c:\My Files\Coursera\coursera-fullstack"
+## How to run browser sync
+browser-sync start --server --files "*"
