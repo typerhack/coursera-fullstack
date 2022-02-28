@@ -3,6 +3,8 @@
     font-family: Roboto;
 }
 p{
+    font-size: 15px;
+    font-weight: normal;
     width: 90%;
     margin-right: auto;
     margin-left: auto;
@@ -10,14 +12,18 @@ p{
     clear: both;
 }
 h1{
+    font-size: 25px;
+    font-weight: bold;
     margin-top: 5%;
     margin-bottom: 5%;
     text-align: center;
 }
 h2{
+    font-size: 18px;
+    font-weight: bold;
     margin-top: -2px;
     margin-right: -2px;
-    width: 30%;
+    width: 125px;
     border: 2px solid black;
     float: right;
     text-align: center;
