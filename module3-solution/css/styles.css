@@ -1,0 +1,18 @@
+h1{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+p{
+    text-align: justify ;
+}
+.chicken{
+    background-color: #bebebf;
+    padding: 25px 2% 25px;
+    margin: 0 5% 0;
+}
+
+@media (max-width: 576px) {
+    .chicken{
+        margin: 0 5% 0;
+    }
+}
